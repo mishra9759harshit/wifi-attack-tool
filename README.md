@@ -104,5 +104,5 @@ Always **obtain proper authorization** before testing networks.
 
 ---
 
-💡 **Made with ❤️ by [Your Name]** | 🌐 Visit: [Your Website](https://mishraharshit.vercel.app)  
+💡 **Developed by Harshit Mishra** | 🌐 Visit: [Your Website](https://mishraharshit.vercel.app)  
 🔗 **Follow for Updates:** [Linkedin](https://www.linkedin.com/in/harshit-mishra-mr-robot) | [GitHub](https://github.com/mishra9759harshit) 🚀  
