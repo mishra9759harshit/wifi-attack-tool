@@ -32,7 +32,7 @@ WiFi Attack Tool is an **advanced penetration testing** and **cybersecurity audi
 ✅ A **lightweight, stable, and easy-to-use** version.  
 ✅ Works **without AI enhancements** for better stability.  
 ✅ **Fast and efficient**, suitable for beginners.  
-📥 **[More](https://your-link.com)**  
+📥 **[More](https://github.com/mishra9759harshit/wifi-attack-tool/blob/master/wifitool-version01.md)**  
 
 ### 🔥 **WiFi-Attack-Tool (AI-Powered & Advanced)**
 🚀 Uses **AI-based automation** to enhance attack success.  
@@ -90,7 +90,7 @@ If you are passionate about **cybersecurity, ethical hacking, and AI-powered aut
 🔹 Submitting **Pull Requests** 🔧  
 
 📢 **Join the community & collaborate!**  
-📩 [Contact Us](mailto:your-email@example.com) | [GitHub Repo](https://github.com/your-repo-link)  
+📩 [Contact Us](mailto:securecoderdev@gmail.com) | [GitHub Repo](https://github.com/mishra9759harshit/wifi-attack-tool)  
 
 ---
 
@@ -104,5 +104,5 @@ Always **obtain proper authorization** before testing networks.
 
 ---
 
-💡 **Made with ❤️ by [Your Name]** | 🌐 Visit: [Your Website](https://yourwebsite.com)  
-🔗 **Follow for Updates:** [Twitter](https://twitter.com/your-handle) | [GitHub](https://github.com/your-repo-link) 🚀  
+💡 **Made with ❤️ by [Your Name]** | 🌐 Visit: [Your Website](https://mishraharshit.vercel.app)  
+🔗 **Follow for Updates:** [Linkedin](https://www.linkedin.com/in/harshit-mishra-mr-robot) | [GitHub](https://github.com/mishra9759harshit) 🚀  
