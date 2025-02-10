@@ -37,7 +37,7 @@ WiFi Attack Tool is an **advanced penetration testing** and **cybersecurity audi
 ### 🔥 **WiFi-Attack-Tool (AI-Powered & Advanced)**
 🚀 Uses **AI-based automation** to enhance attack success.  
 ⚠️ **Still in development** – requires testing & contributions.  
-📥 **[More Beta Version](https://your-link.com)**  
+📥 **[More Beta Version](https://github.com/mishra9759harshit/wifi-attack-tool/blob/master/beta-instruction.md)**  
 
 ---
 
