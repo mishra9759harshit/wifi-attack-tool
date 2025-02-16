@@ -1,8 +1,10 @@
 # **🔥 WiFi Attack Tool – Ethical Hacking & Penetration Testing Toolkit**  
 
-![WiFi Attack Tool Animation](https://github.com/mishra9759harshit/wifi-attack-tool/blob/master/Video-Preview/Betapreview.mkv?raw=true)
+![WiFi Attack Tool Animation](https://github.com/mishra9759harshit/wifi-attack-tool/blob/main/Video-Preview/Betapreview.gif)
 <!-- Replace with actual video link -->
+
 <!-- Animation link not Working-->
+
 ---
 
 ## 🚀 **About This Project**  
