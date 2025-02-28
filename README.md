@@ -1,4 +1,4 @@
-# **🔥 WiFi Attack Tool – Ethical Hacking & Penetration Testing Toolkit**  
+# **WiFi Attack Tool – Ethical Hacking & Penetration Testing Toolkit**  
 
 ![WiFi Attack Tool Animation](https://github.com/mishra9759harshit/wifi-attack-tool/blob/main/Video-Preview/Betapreview.gif)
 <!-- Replace with actual video link -->
@@ -7,29 +7,29 @@
 
 ---
 
-## 🚀 **About This Project**  
+##  **About This Project**  
 WiFi Attack Tool is an **advanced penetration testing** and **cybersecurity auditing tool** that automates various **WiFi attacks**. This tool is built for **ethical hackers, penetration testers, and security researchers** to test and secure wireless networks.  
 
 > ⚠️ **Warning:** This tool is strictly for **ethical hacking** and **authorized penetration testing**. Misuse for unauthorized hacking is **illegal**.
 
 ---
 
-## 📌 **Key Features**  
+## **Key Features**  
 
-🔹 **🔍 Network Scanning:** Discover available WiFi networks and devices.  
-🔹 **📡 Deauthentication Attack:** Disconnect clients from a WiFi network.  
-🔹 **🕵️ Packet Sniffing:** Capture WiFi packets for analysis.  
-🔹 **💻 MITM (Man-in-the-Middle) Attack:** Intercept and manipulate network traffic.  
-🔹 **🎭 Fake AP (Evil Twin Attack):** Set up a rogue WiFi access point.  
-🔹 **🔑 WPA2/WPA3 Handshake Capture:** Extract authentication handshakes for security testing.  
-🔹 **🦠 ARP Spoofing:** Redirect traffic by poisoning ARP tables.  
+🔹 **Network Scanning:** Discover available WiFi networks and devices.  
+🔹 ** Deauthentication Attack:** Disconnect clients from a WiFi network.  
+🔹 ** Packet Sniffing:** Capture WiFi packets for analysis.  
+🔹 ** MITM (Man-in-the-Middle) Attack:** Intercept and manipulate network traffic.  
+🔹 ** Fake AP (Evil Twin Attack):** Set up a rogue WiFi access point.  
+🔹 ** WPA2/WPA3 Handshake Capture:** Extract authentication handshakes for security testing.  
+🔹 **ARP Spoofing:** Redirect traffic by poisoning ARP tables.  
 🔹 **📶 Signal Strength Mapping:** Measure WiFi signal coverage for audits.  
-🔹 **📋 Log & Report Generation:** Automatically create logs of attacks for documentation.  
-🔹 **🔄 AI-Powered Automation (Upcoming! 🤖)**  
+🔹 ** Log & Report Generation:** Automatically create logs of attacks for documentation.  
+🔹 ** AI-Powered Automation (Upcoming! 🤖)**  
 
 ---
 
-## **📌 Available Versions**  
+## ** Available Versions**  
 
 ### 🟢 **wifitool v0.1 (Stable & Simple)**
 ✅ A **lightweight, stable, and easy-to-use** version.  
@@ -37,7 +37,7 @@ WiFi Attack Tool is an **advanced penetration testing** and **cybersecurity audi
 ✅ **Fast and efficient**, suitable for beginners.  
 📥 **[More](https://github.com/mishra9759harshit/wifi-attack-tool/blob/master/wifitool-version01.md)**  
 
-### 🔥 **WiFi-Attack-Tool (AI-Powered & Advanced)**
+### **WiFi-Attack-Tool (AI-Powered & Advanced)**
 🚀 Uses **AI-based automation** to enhance attack success.  
 ⚠️ **Still in development** – requires testing & contributions.  
 📥 **[More Beta Version](https://github.com/mishra9759harshit/wifi-attack-tool/blob/master/beta-instruction.md)**  
