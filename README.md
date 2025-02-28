@@ -82,9 +82,9 @@ sudo python3 wifi-attack-tool.py
 
 ---
 
-## **🤝 How to Contribute?**  
+## **How to Contribute?**  
 
-We need **your help** to make this tool even better! 🎯  
+We need **your help** to make this tool even better! 
 If you are passionate about **cybersecurity, ethical hacking, and AI-powered automation**, contribute by:
 
 🔹 Forking & Starring ⭐ the repository  
