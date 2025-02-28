@@ -24,7 +24,7 @@ WiFi Attack Tool is an **advanced penetration testing** and **cybersecurity audi
 🔹 **WPA2/WPA3 Handshake Capture:** Extract authentication handshakes for security testing.  
 🔹 **ARP Spoofing:** Redirect traffic by poisoning ARP tables.  
 🔹 **📶 Signal Strength Mapping:** Measure WiFi signal coverage for audits.  
-🔹 ** Log & Report Generation:** Automatically create logs of attacks for documentation.  
+🔹 **Log & Report Generation:** Automatically create logs of attacks for documentation.  
 🔹 ** AI-Powered Automation (Upcoming! 🤖)**  
 
 ---
