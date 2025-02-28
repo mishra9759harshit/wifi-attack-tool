@@ -18,7 +18,7 @@ WiFi Attack Tool is an **advanced penetration testing** and **cybersecurity audi
 
 🔹 **Network Scanning:** Discover available WiFi networks and devices.  
 🔹 **Deauthentication Attack:** Disconnect clients from a WiFi network.  
-🔹 ** Packet Sniffing:** Capture WiFi packets for analysis.  
+🔹 **Packet Sniffing:** Capture WiFi packets for analysis.  
 🔹 ** MITM (Man-in-the-Middle) Attack:** Intercept and manipulate network traffic.  
 🔹 ** Fake AP (Evil Twin Attack):** Set up a rogue WiFi access point.  
 🔹 ** WPA2/WPA3 Handshake Capture:** Extract authentication handshakes for security testing.  
